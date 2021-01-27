@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         inc = findViewById(R.id.increment);
         dec = findViewById(R.id.decrement);
-        txt = findViewById(R.id.number);
+        txt = findViewById(R.id.text);
 
         inc.setOnClickListener(new View.OnClickListener() {
             @Override
