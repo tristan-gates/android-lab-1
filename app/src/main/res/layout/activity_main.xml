@@ -28,7 +28,7 @@
             android:fontFamily="monospace"
             android:padding="10dp"
             android:text="@string/_50"
-            android:textSize="30sp"
+            android:textSize="36sp"
             android:textStyle="bold" />
 
         <Button
@@ -39,7 +39,7 @@
             android:onClick="@string/increment"
             android:padding="10dp"
             android:text="@string/increment"
-            android:textSize="24sp" />
+            android:textSize="30sp" />
 
         <Button
             android:id="@+id/decrement"
@@ -49,7 +49,7 @@
             android:onClick="@string/decrement"
             android:padding="10dp"
             android:text="@string/decrement"
-            android:textSize="24sp" />
+            android:textSize="30sp" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
